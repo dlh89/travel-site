@@ -11160,7 +11160,6 @@ var MobileMenu = function () {
     }, {
         key: "toggleTheMenu",
         value: function toggleTheMenu() {
-            console.log(this.menuContent);
             this.menuContent.toggleClass("site-header__menu-content--is-visible");
             this.siteHeader.toggleClass("site-header--is-expanded");
             this.menuIcon.toggleClass("site-header__menu-icon--close-x");
@@ -11739,7 +11738,6 @@ var Modal = function () {
     this.modal = (0, _jquery2.default)(".modal");
     this.closeModalButton = (0, _jquery2.default)(".modal__close");
     this.events();
-    console.log("modal");
   }
 
   _createClass(Modal, [{

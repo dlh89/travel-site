@@ -1,7 +1,7 @@
 /* Do not edit modules/_sprite directly as it is generated automatically by Gulp. Instead edit gulp/templates/sprite */
 
     .icon {
-        background-image: url('/assets/images/sprites/sprite-e79e95cc.svg');
+        background-image: url('../../assets/images/sprites/sprite-e79e95cc.svg');
     }
     .icon--clear-view-escapes {
         width: 144.4px;
@@ -10,7 +10,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--comment {
         width: 66px;
@@ -19,7 +19,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--facebook {
         width: 23.23px;
@@ -28,7 +28,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--fire {
         width: 58px;
@@ -37,7 +37,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--globe {
         width: 66px;
@@ -46,7 +46,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--instagram {
         width: 44.01px;
@@ -55,7 +55,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--mail {
         width: 66px;
@@ -64,7 +64,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--rain {
         width: 66px;
@@ -73,7 +73,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--star {
         width: 66px;
@@ -82,7 +82,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--twitter {
         width: 53.78px;
@@ -91,7 +91,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--wifi {
         width: 62px;
@@ -100,7 +100,7 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
     .icon--youtube {
         width: 36.75px;
@@ -109,5 +109,5 @@
     }
 
     .no-svg .icon {
-      background-image: url('/assets/images/sprites/sprite-e79e95cc.png');
+      background-image: url('../../assets/images/sprites/sprite-e79e95cc.png');
     }
