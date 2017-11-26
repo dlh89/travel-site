@@ -11,4 +11,8 @@
         height: {{height.outer}}px;
         background-position: {{position.relative.xy}};
     }
+
+    .no-svg .icon {
+      background-image: url('/assets/images/sprites/{{#replaceSvgWithPng}}{{{sprite}}}{{/replaceSvgWithPng}}');
+    }
 {{/shapes}}
